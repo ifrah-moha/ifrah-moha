@@ -11,14 +11,14 @@ Welcome to my profile! I'm passionate about frontend development, my expertise l
 - Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
 ## Exploring the Backend Universe 🖥
 My specialization is in backend development, with a strong emphasis on efficient architecture and solutions that enhance performance. I'm dedicated to optimizing systems and deepening my expertise in this domain.
 
-![DevIfrah's Stats](https://github-readme-stats.vercel.app/api?username=DevCodeMathias&theme=monokai&show_icons=true&hide_border=true&count_private=true) 
+!Ifrah's Stats](https://github-readme-stats.vercel.app/api?username=DevCodeMathias&theme=monokai&show_icons=true&hide_border=true&count_private=true) 
 
 
 ## ⭐ Objective
