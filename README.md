@@ -18,8 +18,6 @@ Welcome to my profile! I'm passionate about frontend development, my expertise l
 ## Exploring the Backend Universe 🖥
 My specialization is in backend development, with a strong emphasis on efficient architecture and solutions that enhance performance. I'm dedicated to optimizing systems and deepening my expertise in this domain.
 
-!Ifrah's Stats](https://github-readme-stats.vercel.app/api?username=DevCodeMathias&theme=monokai&show_icons=true&hide_border=true&count_private=true) 
-
 
 ## ⭐ Objective
 My journey is defined by the constant pursuit of excellence. I strive to create solutions that not only address challenges but also inspire innovation. I invite you to connect with me to collaborate and jointly shape the future of technology, driving changes that resonate globally.
@@ -31,4 +29,4 @@ Let's turn our ideas into reality through strategic coding and unwavering dedica
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
- [![Discord](https://img.shields.io/badge/-Discord-%232c3e50?style=for-the-badge&logo=discord&logoColor=white)](https://cep7004)
+ [![Discord](https://img.shields.io/badge/-Discord-%232c3e50?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.com/channels/@me)])
