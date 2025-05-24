@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Laura Claro Mathias
+# 👋 Hello, I'm ifrah mohamed
 
- Software Developer | Software Engineering Student | São Paulo, Brazil
+ Software Developer | Software Engineering Student | 
 
-Welcome to my profile! I'm passionate about backend development, my expertise lies in crafting efficient infrastructures and robust APIs for optimized performance.
+Welcome to my profile! I'm passionate about frontend development, my expertise lies in crafting efficient infrastructures.
 
 ## 📚 Summary
-- Software Engineering student at FIAP.
+- Software Engineering student .
 - Backend-focused Software Developer.
 - Specialized in creating efficient infrastructures and robust APIs.
 - Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
